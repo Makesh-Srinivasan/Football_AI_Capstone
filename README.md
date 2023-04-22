@@ -6,4 +6,4 @@ In this research, I explored and built a novel way of visualising and analysing 
 While the scope of this research is to incorporate artificial intelligence to enhance audience’s viewing experience, the spatiotemporal data and deep-learning prediction and tracking models can be used by football clubs, game developers and analysts to acquire deeper insights into gameplays, strategies, tactics and much more. 
 
 ##### This is an ongoing research. If you have read my work, thank you. Kindly consider sharing your thoughts. And if you haven't, do consider reading the document named "19BCE1717_report" which details my work. Any feedback is welcome :)
-##### For more information, email me at makesh.srinivasan2019@vitstudent.ac.in
+##### For more information, email me at makesh.srinivasan2019@vitstudent.ac.in or reach out via LinkedIn https://www.linkedin.com/in/makesh-srinivasan/
